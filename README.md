@@ -45,7 +45,7 @@ Docker & Docker Compose: Optional (for containerized execution)
 
 Option 1: Local Development Setup
 Clone the repository:
-git clone [[https://github.com/YOUR_USERNAME/ai-agent-workflow-builder.git](https://github.com/YOUR_USERNAME/ai-agent-workflow-builder.git)](https://github.com/vidyashree-sys/AI_Agent_Workflow_Builder)
+git clone:(https://github.com/vidyashree-sys/AI_Agent_Workflow_Builder)
 cd ai-agent-workflow-builder
 
 Setup and run Backend:
